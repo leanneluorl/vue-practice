@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
-git push https://github.com/leanneluorl/axios-practice.git master:gh-pages
+git push https://github.com/leanneluorl/vue-practice.git master:gh-pages
 
 cd -
